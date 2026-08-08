@@ -244,6 +244,7 @@
     <string name="InuIconReplacement">アイコンパック</string>
     <string name="InuIconReplacementOff">デフォルト</string>
     <string name="InuIconReplacementSolar">Solar by @Design480</string>
+    <string name="InuIconReplacementVkui">VKUI by VK</string>
 
     <string name="InuMapsHeader">地図</string>
     <string name="InuMapProvider">地図ビューのプロバイダー</string>

@@ -321,6 +321,7 @@
     <string name="InuIconReplacement">Icon pack</string>
     <string name="InuIconReplacementOff">Default</string>
     <string name="InuIconReplacementSolar">Solar by @Design480</string>
+    <string name="InuIconReplacementVkui">VKUI by VK</string>
 
     <string name="InuMapsHeader">Maps</string>
     <string name="InuMapProvider">Map view provider</string>

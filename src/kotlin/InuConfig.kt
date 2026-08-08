@@ -701,6 +701,7 @@ object InuConfig {
         companion object {
             const val OFF = 0
             const val SOLAR = 1
+            const val VKUI = 2
         }
     }
 

@@ -32,6 +32,7 @@ class AppearanceSettingsActivity : SettingsPageActivity() {
                 LocaleController.getString(R.string.InuIconReplacement),
                 when (InuConfig.ICON_REPLACEMENT.value) {
                     InuConfig.IconReplacementItem.SOLAR -> LocaleController.getString(R.string.InuIconReplacementSolar)
+                    InuConfig.IconReplacementItem.VKUI -> LocaleController.getString(R.string.InuIconReplacementVkui)
                     else -> LocaleController.getString(R.string.InuIconReplacementOff)
                 }
             )
@@ -214,6 +215,7 @@ class AppearanceSettingsActivity : SettingsPageActivity() {
                 listOf(
                     LocaleController.getString(R.string.InuIconReplacementOff),
                     LocaleController.getString(R.string.InuIconReplacementSolar),
+                    LocaleController.getString(R.string.InuIconReplacementVkui),
                 ),
                 InuConfig.ICON_REPLACEMENT.value,
             ) { which ->

@@ -243,6 +243,7 @@
     <string name="InuIconReplacement">Набор иконок</string>
     <string name="InuIconReplacementOff">По умолчанию</string>
     <string name="InuIconReplacementSolar">Solar от @Design480</string>
+    <string name="InuIconReplacementVkui">VKUI от VK</string>
 
     <string name="InuMapsHeader">Карты</string>
     <string name="InuMapProvider">Источник карт</string>
